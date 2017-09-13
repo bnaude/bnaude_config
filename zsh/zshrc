@@ -87,10 +87,6 @@ source $ZSH/oh-my-zsh.sh
 # --- MY ALIAS ---
 
 alias rm='rm -i'
-alias mvnCIST='mvn clean install -T 2 -DskipTests'
-alias all='cd /Users/bnaude/Documents/Workspace/marketplace-platform'
-alias mcm='cd /Users/bnaude/Documents/Workspace/mcm'
-alias sdk='cd /Users/bnaude/Documents/Workspace/sdk-java'
 
 # --- MY EXPORT ---
 export NODE_PATH="/usr/local/lib/node_modules/"
